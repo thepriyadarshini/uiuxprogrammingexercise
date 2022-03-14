@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24.001" viewBox="0 0 24 24.001">
+  <g id="multi_stop_unselected" transform="translate(-535.444 -1253.444)">
+    <path id="Fill-1" d="M23.74,3.444H7.149a3.715,3.715,0,0,0-3.7,3.7V23.741a3.715,3.715,0,0,0,3.7,3.7H23.74a3.715,3.715,0,0,0,3.7-3.7V7.149a3.715,3.715,0,0,0-3.7-3.7" transform="translate(532 1250)" fill="#1c73a6" fill-rule="evenodd"/>
+    <path id="Rectangle" d="M8.037,8.037H22.853V22.853H8.037Z" transform="translate(532 1250)" fill="#fff" fill-rule="evenodd"/>
+    <circle id="Oval-10" cx="4.306" cy="4.306" r="4.306" transform="translate(543.205 1261.206)" fill="#1c73a6"/>
+  </g>
+</svg>

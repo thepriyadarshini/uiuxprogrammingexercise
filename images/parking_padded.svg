@@ -1,0 +1,10 @@
+<svg id="parking_padded" xmlns="http://www.w3.org/2000/svg" width="24" height="24.001" viewBox="0 0 24 24.001">
+  <path id="Fill-1" d="M20.634.338H4.043a3.715,3.715,0,0,0-3.7,3.7V20.635a3.715,3.715,0,0,0,3.7,3.7H20.634a3.715,3.715,0,0,0,3.7-3.7V4.043a3.715,3.715,0,0,0-3.7-3.7" transform="translate(-0.339 -0.338)" fill="none" fill-rule="evenodd"/>
+  <g id="GoLink-Mix-Supply" transform="translate(3.52 3.521)">
+    <g id="Travel-Tools-icons-Copy-7" transform="translate(0.48 0.479)">
+      <g id="Tram_map" transform="translate(0 0)">
+        <path id="Subtraction_12" data-name="Subtraction 12" d="M20260.086,9662.473h-10.7a2.387,2.387,0,0,1-2.385-2.385v-10.7a2.39,2.39,0,0,1,2.385-2.39h10.7a2.393,2.393,0,0,1,2.391,2.39v10.7A2.39,2.39,0,0,1,20260.086,9662.473Zm-8.156-12.377h0v9.123h1.912v-2.879h1.7a3.33,3.33,0,0,0,2.352-.859,3.04,3.04,0,0,0,.908-2.263,2.974,2.974,0,0,0-3.162-3.122Zm3.2,4.755h-1.287v-3.244h1.291a1.625,1.625,0,1,1,0,3.244Z" transform="translate(-20247 -9647)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -588,3 +588,98 @@ ul.navbar-nav li a{
         justify-content: center;
     }
 }
+
+
+
+/*Get Moving Css*/
+
+
+.get-moving-section{
+    background-color: #F1F1F1;
+    margin-top: 60px;
+}
+.section-padding{
+    padding: 60px 0;
+}
+.section-head {
+    width: 100%;
+    display: inline-block;
+}
+.section-head h3 {
+    font-size: 35px;
+    font-weight: bold;
+    text-transform: capitalize;
+    width: 100%;
+    display: inline-block;
+    margin: 0 0 30px 0;
+}
+.get-moving-img {
+    margin-bottom: 20px;
+}
+.get-moving-content h3 {
+    font-size: 25px;
+    font-weight: 600;
+    color: #00205B;
+    margin-bottom: 15px;
+}
+
+
+@media all and (max-width: 1199px){
+    .get-moving-section{
+        margin-top: 0;
+    }
+}
+
+@media all and (max-width: 767px){
+    .get-moving-box{
+        margin-bottom: 30px;
+    }
+}
+
+.lets-go-boxes{
+    transform: skewX(-10deg);
+    border: 1px solid #B8B8B8;
+    text-align: center;
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.lets-go-boxes:hover{
+    background: #00205B;
+    border-color: transparent;
+}
+.lets-go-boxes:hover img{
+    filter: invert(1);
+}
+.lets-go-boxes:hover h3{
+    color: #fff;
+}
+.lets-go-boxes:hover svg path{
+    fill: #fff;
+}
+.lets-go-boxes img {
+    transform: skewX(10deg);
+    height: 60px;
+    margin-right: 15px
+}
+.lets-go-boxes h3{
+    font-size: 14px;
+    transform: skewX(10deg);
+}
+.lets-go-boxes-content span svg{
+    width: 20px;
+    height: 20px;
+    transform: skewX(10deg);
+}
+
+@media all and (max-width: 1199px){
+    .lets-go-boxes{
+        padding: 20px;
+    }
+    .lets-go-section .container .col-12 .row .col{
+        flex-basis: revert;
+        margin: 8px;
+    }
+}
